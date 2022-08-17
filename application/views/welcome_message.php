@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Sortware Engineering</h1>
+	<h1>Computer</h1>
 
 </div>
 
